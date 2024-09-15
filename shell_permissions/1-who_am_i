@@ -1,2 +1,3 @@
 #!/bin/bash
-whoami
+./get_user.sh
+
